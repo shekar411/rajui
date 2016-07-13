@@ -1,0 +1,375 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.quantaservices.com/xmlrpc.php">
+<!--[if lt IE 9]>
+<script src="http://www.quantaservices.com/wp-content/themes/quanta-wordpress-theme/js/html5.js"></script>
+<![endif]-->
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Quanta Services | Home | Leader in Electric Power, Oil &amp; Gas Industries</title>
+<meta name="description" content="With a team of entity companies working together, Quanta Services is an industry leader in the electrical, oil and gas, and fiber optics fields."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.quantaservices.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Quanta Services | Home | Leader in Electric Power, Oil &amp; Gas Industries" />
+<meta property="og:description" content="With a team of entity companies working together, Quanta Services is an industry leader in the electrical, oil and gas, and fiber optics fields." />
+<meta property="og:url" content="http://www.quantaservices.com/" />
+<meta property="og:site_name" content="Quanta Services" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.quantaservices.com\/","name":"Quanta Services","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.quantaservices.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="msvalidate.01" content="58E6A0B730A1ED53A926EC291D654D0D" />
+<meta name="google-site-verification" content="htVjQPKaVzdMlhdIrk3HlCivgpmlD3u3tru8QVqew_4" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Quanta Services &raquo; Feed" href="http://www.quantaservices.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Quanta Services &raquo; Comments Feed" href="http://www.quantaservices.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Quanta Services &raquo; Home Comments Feed" href="http://www.quantaservices.com/home/feed/" />
+<link rel='stylesheet' id='quanta-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%7CRoboto%2BCondensed%3A400italic%2C400%2C700%7COpen%2BSans%3A400italic%2C400%2C600%2C600italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='quanta-style-css'  href='http://www.quantaservices.com/wp-content/themes/quanta-wordpress-theme/style.css?ver=4.1.12' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.quantaservices.com/wp-content/themes/quanta-wordpress-theme/js/vendor/modernizr-2.6.2.min.js?ver=4.1.12'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.quantaservices.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.quantaservices.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.12" />
+<link rel='shortlink' href='http://www.quantaservices.com/' />
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-8497441-1');
+			ga('require', 'displayfeatures');
+			ga('send', 'pageview');
+		</script>
+		</head>
+<body class="home page page-id-223 page-template-default page-home">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TSC25D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TSC25D');</script>
+<!-- End Google Tag Manager -->
+
+<div id="wrap">
+  <header role="banner">
+    <div class="centered">
+      <a href="http://www.quantaservices.com/" id="logo" rel="home"><img src="http://www.quantaservices.com/wp-content/uploads/2016/01/logo.jpg" alt="Quanta Services"></a>
+      <nav role="navigation" id="mainnav">
+        <div class="folder menu">
+          <button class="icon-reorder"></button>
+          <div class="nav-links">
+            <div class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25 folder"><a id="menu-item-25" aria-selected="false" data-title="Our Company" href="http://www.quantaservices.com/about/">Our Company</a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26 folder"><a id="menu-item-26" aria-selected="false" data-title="Services" href="http://www.quantaservices.com/services/">Services</a></div>
+<div class="menu-item menu-item-type-custom menu-item-object-custom menu-item-323 folder"><a id="menu-item-323" aria-selected="false" data-title="Investors &amp; Media" href="http://investors.quantaservices.com/">Investors &#038; Media</a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29 folder"><a id="menu-item-29" aria-selected="false" data-title="Entities" href="http://www.quantaservices.com/entities/">Entities</a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267 folder"><a id="menu-item-267" aria-selected="false" data-title="Safety" href="http://www.quantaservices.com/safety/">Safety</a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242 folder"><a id="menu-item-242" aria-selected="false" data-title="International" href="http://www.quantaservices.com/international/">International</a></div>
+          </div>
+        </div>
+        <div class="folder login">
+          <a href="https://qportal.quantaservices.com/" target="_blank" class="icon-lock" title="Employee Login"><span class="visuallyhidden">Employee Login</span></a>
+          <div class="folder-sub">
+            <a href="https://qportal.quantaservices.com/" target="_blank" title="Employee Login">Employee Login</a>
+          </div>
+        </div>
+        <div class="folder search">
+          <button class="icon-search"></button>
+          <div class="folder-sub">
+            <form action="http://www.quantaservices.com/" method="get" id="searchform" role="search">
+              <label class="visuallyhidden" for="s">Search</label>
+              <input type="text" name="s" id="s" placeholder="Type in search here"><input type="submit" value="Search">
+            </form>          </div>
+        </div>
+        <div id="Stocks" data-stocksymbol="PWR" class="content folder" style="display:inline-block; font-size: .8em;">
+		        <span class="Symbol"><b class="Stat"><i data-replace='symbol'></i></b></span>
+		        <span class="Price"><b class="Stat"> $<i data-replace='LastTradePriceOnly'></i></b> <span class = 'change-direction'></span></span>
+		        <!--<span class="" style="visibility: hidden; position: absolute; left:-10000px"><b class="Stat"><input type=text onchange='fnSetArrow(this.value)' class="Change" data-replace='Change'></i></b><b class="Stat">(<i data-replace='ChangeinPercent'></i>)</b></span>
+		        <span id = 'stock-arrow' style="display: none;"><img src = ""></span>-->
+	      </div>
+      </nav>
+    </div>
+  </header>
+  <main role="main">
+
+
+
+<!--// CMO //-->
+      <section id="banner">
+            Array
+(
+    [image] => 448
+    [image_position] => center center
+    [link] => http://www.quantaservices.com/safety/
+    [heading] => Safety
+    [description] => As the recognized industry leader, Quanta is committed to the health and safety of our employees, customers and community.
+    [links] => Array
+        (
+        )
+
+)
+        <div class="banner-slide is-current" style="background-image:url(http://www.quantaservices.com/wp-content/uploads/2013/08/Safety1.jpg); background-position: center center;">
+          <div class="banner-overlay"></div>
+          <div class="banner-text">
+            <h2>Safety</h2>            <p>As the recognized industry leader, Quanta is committed to the health and safety of our employees, customers and community.</p>            
+                            <a href="http://www.quantaservices.com/safety/" class="btn btn-seethru">Read More</a>
+                          </div>
+        </div>
+            Array
+(
+    [image] => 445
+    [image_position] => center center
+    [link] => http://www.quantaservices.com/services/electric-power/
+    [heading] => Electric Power Services
+    [description] => Quanta safely builds, maintains and provides comprehensive solutions for the infrastructure that delivers electricity, and all its conveniences, to neighborhoods and businesses. 
+    [links] => Array
+        (
+        )
+
+)
+        <div class="banner-slide" style="background-image:url(http://www.quantaservices.com/wp-content/uploads/2013/08/Electric-Power1.jpg); background-position: center center;">
+          <div class="banner-overlay"></div>
+          <div class="banner-text">
+            <h2>Electric Power Services</h2>            <p>Quanta safely builds, maintains and provides comprehensive solutions for the infrastructure that delivers electricity, and all its conveniences, to neighborhoods and businesses. </p>            
+                            <a href="http://www.quantaservices.com/services/electric-power/" class="btn btn-seethru">Read More</a>
+                          </div>
+        </div>
+            Array
+(
+    [image] => 447
+    [image_position] => center bottom
+    [link] => http://www.quantaservices.com/services/oil-gas-infrastructure-services/onshore-infrastructure-services/
+    [heading] => Oil and Gas Infrastructure Services
+    [description] => Quanta is safely redefining the turnkey process by bringing full engineering, procurement and construction services plus specialized skills and unmatched resources to the pipeline lifecycle. 
+    [links] => Array
+        (
+            [0] => Array
+                (
+                    [url] => http://www.quantaservices.com/services/oil-gas-infrastructure-services/onshore-infrastructure-services
+                    [caption] => Onshore
+                )
+
+            [1] => Array
+                (
+                    [url] => http://www.quantaservices.com/services/oil-gas-infrastructure-services/offshore-energy-services
+                    [caption] => Offshore
+                )
+
+        )
+
+)
+        <div class="banner-slide" style="background-image:url(http://www.quantaservices.com/wp-content/uploads/2013/08/Oil-and-Gas2.jpg); background-position: center bottom;">
+          <div class="banner-overlay"></div>
+          <div class="banner-text">
+            <h2>Oil and Gas Infrastructure Services</h2>            <p>Quanta is safely redefining the turnkey process by bringing full engineering, procurement and construction services plus specialized skills and unmatched resources to the pipeline lifecycle. </p>            
+                            <a class="btn btn-seethru" style="margin-left:5px; margin-right:5px;" href="http://www.quantaservices.com/services/oil-gas-infrastructure-services/onshore-infrastructure-services">
+                Onshore</a>
+                                <a class="btn btn-seethru" style="margin-left:5px; margin-right:5px;" href="http://www.quantaservices.com/services/oil-gas-infrastructure-services/offshore-energy-services">
+                Offshore</a>
+                          </div>
+        </div>
+            <button class="scrolldown icon-angle-down"></button>
+    </section>
+        <section class="bg-white arrow-after">
+      <header class="centered">
+        <h1>Video</h1>
+      </header>
+      <div class="videobox centered grid">
+                  <a href="https://www.youtube.com/watch?v=8ObUH-4uUlU" class="open-Modal">
+            <figure>
+              <img src="http://www.quantaservices.com/wp-content/uploads/2013/08/Quanta-OurPointOfView.jpg">
+              <figcaption>
+                <h2>Endless Solutions</h2>                <p>Our capabilities allow us to provide customers with the support they need and our employees with the safety they deserve.</p>                <span class="playbtn icon-play"></span>
+              </figcaption>
+            </figure>
+          </a>
+                  <a href="https://www.youtube.com/watch?v=FsqWrNJwVYY" class="open-Modal">
+            <figure>
+              <img src="http://www.quantaservices.com/wp-content/uploads/2013/08/Quanta-Innovation.jpg">
+              <figcaption>
+                <h2>Innovation</h2>                <p>With every project we take on, we dedicate ourselves to pushing the industry forward – building better solutions every time.</p>                <span class="playbtn icon-play"></span>
+              </figcaption>
+            </figure>
+          </a>
+                  <a href="https://www.youtube.com/watch?v=D5vFZnIbTnI" class="open-Modal">
+            <figure>
+              <img src="http://www.quantaservices.com/wp-content/uploads/2013/08/quanta_services_2014_yir.jpg">
+              <figcaption>
+                <h2>Quanta History and 2014 Year In Review</h2>                                <span class="playbtn icon-play"></span>
+              </figcaption>
+            </figure>
+          </a>
+              </div>
+    </section>
+        <section class="bg-gray97">
+      <header class="centered">
+        <h1>Services</h1>
+      </header>
+      <div class="clearfix featureboxes boxes-2 grid centered">
+        <div class="notalink featurebox">
+            <h2>Electric Power Services</h2>
+            <p>Solutions to reliably deliver the modern convenience of electricity</p>
+                        <a href="http://www.quantaservices.com/services/electric-power/"  class="btn">Learn More          	</a>
+			</div><div class="notalink featurebox">
+            <h2>Oil and Gas Infrastructure Services</h2>
+            <p>Solutions to ensure the safe delivery of liquids and gas</p>
+                        <a style="margin-right:3px; width:115px;" href="services/oil-gas-infrastructure-services/onshore-infrastructure-services/"  class="btn-wait4link">Onshore</a>
+            <a style="margin-left:3px; width:115px;" href="services/oil-gas-infrastructure-services/offshore-energy-services/"  class="btn-wait4link">Offshore</a>
+            </div>
+                  </div>
+    </section>
+  <section id="news" class="about-news no-feed"   style="background-image:url(http://www.quantaservices.com/wp-content/uploads/2013/08/BG_Home-About3.jpg);">
+    <div class="centered grid">
+      <section class="about-us">
+        <header>
+          <h1>About Us</h1>
+        </header>
+        <div class="content">
+          <p>Quanta Services provides engineering, procurement and construction (EPC) services for comprehensive infrastructure needs in the electric power and oil and natural gas industries, both onshore and offshore.  With 22,000 employees and offices across North America and abroad, Quanta is the premier provider in the industries it serves.<br />
+<br />
+Quanta has focused on becoming a single-source solution to an array of complex market needs since its inception.  As a result, Quanta has changed the industry by delivering a collective scope of services, expertise and manpower never before offered by one company.  Projects that traditionally required multiple contractors to complete now call on the company that does it all: Quanta Services.</p>
+        </div>
+                <footer>
+                	<a href="http://www.quantaservices.com/about/" class="btn btn-seethru">Learn More About Us</a>
+                	<a href="http://www.quantaservices.com/about/" class="btn btn-seethru">Careers</a>
+                </footer>
+              </section>
+            <!--<section class="stock-ticker">
+      	<header>
+        <h1>PWR:NYSE</h1>
+        </header>
+      	<div id="Stocks" data-stocksymbol="PWR" class="content">
+		        <span class="Price"><b class="Label">Last Price</b> <b class="Stat">$<i data-replace='LastTradePriceOnly'></i></b></span>
+		        <span class="Change"><b class="Label">Change</b> <b class="Stat"><i data-replace='Change'></i></b> <b class="Stat">(<i data-replace='ChangeinPercent'></i>)</b></span>
+		        <span class="Volume"><b class="Label">Volume</b> <b class="Stat" data-replace='Volume'></b></span>
+		        <span class="MarketCapitalization"><b class="Label">Mkt Cap</b> <b class="Stat">$<i data-replace="MarketCapitalization"></i></b></span>
+		        <span class="LastUpdated"><b class="Label">Last Trade</b> <b class="Stat"><i data-replace='LastTradeDate'></i> <i data-replace="LastTradeTime"></i> <i>EST</i> </b></span>
+	      </div>
+	      <div class="content" style="text-align: center; padding-top: 0;">
+	        <a href="http://www.quantaservices.com/2013annualreport" target="_blank" style="text-decoration: none;">
+	          <h4 style="margin-top: 0;">2013 Interactive Annual Report</h4>
+	          <img src="http://www.quantaservices.com/wp-content/themes/quanta-wordpress-theme/img/QS_AR_2013.jpg" alt="2013 Interactive Annual Report">
+	       </a>
+	      </div>
+	      	    </section>-->
+    </div>
+  </section>
+            <section id="recent-projects" class="bg-gray97 arrow-after">
+        <header class="centered">
+        	<h1>Recent Projects</h1>
+        </header>
+        <div class="centered">
+        	<div class="gallery grid">
+<a href="http://www.quantaservices.com/about/gas/" data-category="oil-and-gas" data-test="true">
+	<figure>
+		<img src="http://www.quantaservices.com/wp-content/uploads/2016/01/gas.jpg">
+		<figcaption>Oil &#038; Gas Infrastructure</figcaption>
+	</figure>
+</a> <a href="http://www.quantaservices.com/about/electric/" data-category="electric-power" data-test="true">
+	<figure>
+		<img src="http://www.quantaservices.com/wp-content/uploads/2016/01/electric.jpg">
+		<figcaption>Electric Power</figcaption>
+	</figure>
+</a> <a href="http://www.quantaservices.com/about/power-generation/" data-category="power-generation" data-test="true">
+	<figure>
+		<img src="http://www.quantaservices.com/wp-content/uploads/2016/01/renewables.jpg">
+		<figcaption>Power Generation</figcaption>
+	</figure>
+</a> </div>
+      	</div>
+      </section>
+              <section class="bg-white">
+      <header class="centered">
+        <h1 class="reset">A Different Perspective</h1>
+      </header>
+      <div class="centered quotes">
+        <figure class="clearfix quotes-quote">
+          <a href="https://vimeo.com/81716256" class="open-Modal video-link image"><img src="http://www.quantaservices.com/wp-content/uploads/2013/08/James-Brown.jpg"><span class="playbtn icon-play"></span></a><figcaption>James Brown <em>Supervisor, North Houston Pole Line since 2003</em></figcaption></figcaption>
+          <blockquote>“The most rewarding thing is hearing the claps and the laughter of people when you turn their lights on.”</blockquote>
+        </figure>
+                      </div>
+    </section>
+  
+  </main>
+</div>
+<footer role="contentinfo">
+      <div class="centered clearfix" vocab="http://schema.org" typeof="Corporation">
+      <div class="footer-description footer-column">
+        <strong typeof="name">Quanta Services</strong>
+        <em>(<span typeof="tickerSymbol">NYSE: PWR</span>) <span typeof="description"> is a leading  provider of specialized contracting services, delivering infrastructure solutions to the electric power and oil and gas industries, both onshore and offshore.</span></em>
+      </div>
+      <div class="footer-column" property="address" typeof="PostalAddress">
+        <strong property="name">Corporate Headquarters</strong>
+        <div property="streetAddress">2800 Post Oak Blvd., Suite 2600</div>
+        <div>
+          <span property="addressLocality">Houston</span>,
+          <span property="addressRegion">Texas</span>
+          <span property="postalCode">77056-6175</span>
+        </div>
+      </div>
+      <div class="footer-column">
+        <div>
+          <strong>Telephone:</strong>
+          <span property="telephone">713-629-7600</span>
+        </div>
+        <div>
+          <strong>Fax:</strong>
+          <span property="faxNumber">713-629-7676</span>
+        </div>
+        <a href="mailto:info@quantaservices.com" property="email">info@quantaservices.com</a>
+      </div>
+    </div>
+    <section>
+    <div class="centered">
+      <nav role="note">
+        <a id="footer-item-254" aria-selected="false" data-title="Our Company" href="http://www.quantaservices.com/about/">Our Company</a>
+<a id="footer-item-255" aria-selected="false" data-title="Services" href="http://www.quantaservices.com/services/">Services</a>
+<a id="footer-item-259" aria-selected="false" data-title="Investors &amp; Media" href="http://stage.investorroom.com/quanta/">Investors &#038; Media</a>
+<a id="footer-item-256" aria-selected="false" data-title="Entities" href="http://www.quantaservices.com/entities/">Entities</a>
+<a id="footer-item-266" aria-selected="false" data-title="Safety" href="http://www.quantaservices.com/safety/">Safety</a>
+<a id="footer-item-258" aria-selected="false" data-title="International" href="http://www.quantaservices.com/international/">International</a>
+<a id="footer-item-260" aria-selected="false" data-title="Employee Login" href="https://qportal.quantaservices.com/">Employee Login</a>
+      </nav>
+      <span>© 2016 Quanta Services</span>
+    </div>
+  </section>
+</footer>
+
+<script type='text/javascript' src='http://www.quantaservices.com/wp-content/themes/quanta-wordpress-theme/js/lib.js?ver=4.1.12'></script>
+<script type='text/javascript' src='http://www.quantaservices.com/wp-content/themes/quanta-wordpress-theme/js/main.js?ver=4.1.12'></script>
+
+<script>
+$('.Change').on('change', function(){
+	
+	var change = $('.Change').val();
+	console.log(change);
+	
+});
+	</script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.quantaservices.com/wp-content/themes/quanta-wordpress-theme/js/ie.js?ver=4.1.12'></script>
+<script type="text/javascript">
+var head = document.getElementsByTagName('head')[0],
+    style = document.createElement('style');
+style.type = 'text/css';
+style.styleSheet.cssText = ':before,:after{content:none !important';
+head.appendChild(style);
+setTimeout(function(){
+    head.removeChild(style);
+}, 0);
+</script>
+<![endif]-->
+</body>
+</html>
