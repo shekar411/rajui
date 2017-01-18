@@ -1,0 +1,211 @@
+<html>
+<head>
+<title>
+Shopping cart
+</title>
+<script>
+
+
+function AddPriceObject(itemToPrice){
+var TheCartItemPrice=document.getElementById('cartitemprice');
+var TheCartItem=document.getElementById('cartitem'+itemToPrice);
+var ThePriceDiv=document.createElement('div');
+var ThePrice=document.createTextNode("$"+TheCartItem.getAttribute("data-price"));
+ThePriceDiv.id='PriceItem'+itemToPrice;
+ThePriceDiv.appendChild(ThePrice);
+TheCartItemPrice.appendChild(ThePriceDiv);
+
+}
+
+function AddQuantityObject(item){
+var TheCartItemQuantity=document.getElementById('cartitemQuantity');
+
+var TheQuantityDiv=document.createElement('div');
+var TheQuantity=document.createTextNode("1");
+TheQuantityDiv.id='QuantityItem'+item;
+TheQuantityDiv.appendChild(TheQuantity);
+TheCartItemQuantity.appendChild(TheQuantityDiv);
+
+}
+
+
+function AddTotalObject(itemToRemove){
+
+}
+
+function RemoveCartItem(item){
+
+var obj=document.getElementById('cartitem'+item);
+obj.parentNode.removeChild(obj);
+obj=document.getElementById('RemoveItem'+item);
+obj.parentNode.removeChild(obj);
+obj=document.getElementById('PriceItem'+item);
+obj.parentNode.removeChild(obj);
+obj=document.getElementById('QuantityItem'+item);
+obj.parentNode.removeChild(obj);
+}
+
+function AddRemoveObject(itemToRemove){
+var TheCartItemRemove=document.getElementById('cartitemremove');
+var TheRemoveDiv=document.createElement("div");
+var TheRemoveImage=document.createElement("img");
+TheRemoveDiv.id='RemoveItem'+itemToRemove;
+TheRemoveImage.src="remove.jpg";
+TheRemoveImage.height=25;
+TheRemoveImage.onclick=  function(){RemoveCartItem(itemToRemove);};
+TheRemoveDiv.appendChild(TheRemoveImage);
+TheCartItemRemove.appendChild(TheRemoveDiv);
+
+}
+function ShowCartItems(){
+var TheCartItems=document.getElementById('cartitemimages');
+var TheCartItemRemove=document.getElementById('cartitemremove');
+var TheRemoveNodeList=TheCartItemRemove.getElementsByTagName('div');
+var TheCartItemPrice=document.getElementById('cartitemprice');
+var ThePriceNodeList=TheCartItemPrice.getElementsByTagName('div');
+var TheCartItemQuantity=document.getElementById('cartitemQuantity');
+var TheQuantityNodeList=TheCartItemQuantity.getElementsByTagName('div');
+var TheImageNodeList=TheCartItems.getElementsByTagName('div');
+for(i=0;i<TheImageNodeList.length;i++){
+TheImageNodeList[i].style.position="absolute";
+TheImageNodeList[i].style.top=(120*i)+"px";
+TheImageNodeList[i].style.left=(0)+"px";
+TheRemoveNodeList[i].style.position="absolute";
+TheRemoveNodeList[i].style.top=(120*i)+50+"px";
+TheRemoveNodeList[i].style.left=(0)+"px";
+
+ThePriceNodeList[i].style.position="absolute";
+ThePriceNodeList[i].style.top=(120*i)+50+"px";
+ThePriceNodeList[i].style.left=(0)+"px";
+
+TheQuantityNodeList[i].style.position="absolute";
+TheQuantityNodeList[i].style.top=(120*i)+50+"px";
+TheQuantityNodeList[i].style.left=(0)+"px";
+}
+}
+
+function FindIfIdExists(obj,id){
+var TheNodeList=obj.getElementsByTagName('div');
+for(NodeNumber=0; NodeNumber<TheNodeList.length;NodeNumber++){
+if(TheNodeList[NodeNumber].id===id){
+return NodeNumber + 1;
+}
+}
+return 0;
+}
+
+function continueshopping(){
+document.getElementById('products').style.visibility='visible';
+document.getElementById('Thecart').style.visibility='hidden';
+
+}
+function addpayment(){
+document.getElementById('pay').style.visibility='visible';
+document.getElementById('Thecart').style.visibility='hidden';
+
+}
+
+function checkout(){
+document.getElementById('Thankyouforyourorder').style.visibility='visible';
+document.getElementById('pay').style.visibility='hidden';
+
+}
+function AddToCart(itemToAdd){
+var TheCartItemImages=document.getElementById('cartitemimages');
+var FoundNodeCount=FindIfIdExists(TheCartItemImages,"cartitem"+itemToAdd);
+if(FoundNodeCount===0){
+var TheCartItemToAdd=document.getElementById(itemToAdd).cloneNode(true);
+TheCartItemToAdd.id="cartitem"+itemToAdd;
+TheCartItemToAdd.childNodes[1].height=100;
+TheCartItemImages.appendChild(TheCartItemToAdd);
+AddRemoveObject(itemToAdd);
+AddPriceObject(itemToAdd);
+
+AddQuantityObject(itemToAdd);
+AddTotalObject(itemToAdd);
+
+}
+ShowCartItems();
+document.getElementById('products').style.visibility='hidden';
+document.getElementById('Thecart').style.visibility='visible';
+}
+
+
+
+</script>
+</head>
+<body>
+<div id="products" style='visibility:visible'>
+<div id="001" data-price="799.00" style="position:absolute; left:200px; top:150px">
+<img src="img1.jpg" height="300">
+</div>
+<div style="position:absolute; left:200px; top:450px">
+<img src="addtocart.jpg" height="43" onclick='AddToCart("001")'>
+</div>
+<div style="position:absolute; align:right; font-size:18pt; left:425px; top:455px">
+$799.00
+</div>
+<div id="002" data-price="399.00" style="position:absolute; left:600px; top:150px">
+<img src="img2.jpg" height="300">
+</div>
+<div style="position:absolute; left:650px; top:450px">
+<img src="addtocart.jpg" height="43" onclick='AddToCart("002")'>
+</div>
+<div style="position:absolute; align:right; font-size:18pt; left:825px; top:455px">
+$399.00
+</div>
+<div id="003" data-price="899.00" style="position:absolute; left:1000px; top:150px">
+<img src="img3.jpg" height="300">
+</div>
+<div style="position:absolute; left:1030px; top:450px">
+<img src="addtocart.jpg" height="43" onclick='AddToCart("003")'>
+</div>
+<div style="position:absolute; align:right; font-size:18pt; left:1170px; top:455px">
+$899.00
+</div>
+
+</div>
+<div id='Thecart' style='visibility:hidden'>
+<div style="position:absolute; align:right; font-size:72pt; left:50px; top:5px">
+The Cart
+</div>
+<div style="position:absolute; left:475px; top:50px">
+<img src="continue.jpg" height="43" onclick='continueshopping()'/>
+<img src="paid.jpg" height="55" onclick='addpayment()'/>
+
+</div>
+<div id="cartitemimages" style="position:absolute; left:75px; top:150px"></div>
+<div id="cartitemremove" style="position:absolute; left:200px; top:150px"></div>
+<div id="cartitemprice" style="position:absolute; left:300px; top:150px"></div>
+<div id="cartitemQuantity" style="position:absolute; left:400px; top:150px"></div>
+<div id="cartitemTotal" style="position:absolute; left:300px; top:150px"></div>
+
+</div>
+
+
+</div>
+<div id="pay" style="position:absolute; left:400px; top:150px; visibility:hidden">
+
+
+<h2>Card Number:<input type="number" placeholder="cardnumber" required ><br></h2>
+<h2>FUll Name:<input type="text" placeholder="Name"><br></h2>
+<h2>Checkout:<button type="button" onclick="checkout()">Checkout</button></h2>
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+<div id='Thankyouforyourorder' style='visibility:hidden; font-size:144pt' onclick="checkout()">
+Thankyou for your order
+</div>
+
+</body>
+</html>
